@@ -1,9 +1,0 @@
-Enumerating objects: 10, done.
-Counting objects: 100% (10/10), done.
-Delta compression using up to 12 threads
-Compressing objects: 100% (6/6), done.
-Writing objects: 100% (6/6), 642 bytes | 642.00 KiB/s, done.
-Total 6 (delta 2), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas: 100% (2/2), completed with 1 local object.
-To https://github.com/Kroelos/test.git
-   ade3a98..d4065de  master -> master
